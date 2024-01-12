@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #00ff2a;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -1755,14 +1755,14 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 48px;
-			height: 48px;
-			background: #f00;
+			width: 60px;
+			height: 60px;
+			background: transparent;
 		}
 
 			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+				width: 60px;
+				height: 60px;
 			}
 
 		.image.fit {
@@ -2124,7 +2124,7 @@ input, select, textarea {
 			top: 0;
 		}
 
-	#nav ul {
+	#nav ul  {
 		list-style: none;
 		padding-left: 0;
 		margin-bottom: 0;
@@ -2147,7 +2147,7 @@ input, select, textarea {
 				transition: none;
 			}
 
-				#nav ul li a span {
+				#nav ul li a span  {
 					position: relative;
 					display: block;
 					font-size: 0.8em;
@@ -2169,8 +2169,13 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #07e437;
 					}
+	#contato   {		
+		color:  rgba(255, 255, 255, 0.5);
+		justify-content: center;
+		
+	}		
 
 /* Footer */
 
@@ -2248,7 +2253,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/binario.jpg");
 			}
 
 			#main > section.two {
