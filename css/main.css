@@ -1995,6 +1995,24 @@ input, select, textarea {
 				font-size: 1em;
 			}
 
+/* Item2 */
+
+.item2 {
+	image-resolution: 200px;
+	margin-bottom: 20px;
+}
+
+	.item2 header {
+		background: #fff;
+		margin: 0;
+		padding: 1em 0 1em 0;
+		font-size: 0.8em;
+	}
+
+		.item2 header h3 {
+			font-size: 0.6em;
+		}
+
 /* Icons */
 
 	.icon {
