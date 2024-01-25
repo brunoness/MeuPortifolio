@@ -2,14 +2,14 @@
 
 publicado no Netlify: https://portifolio-brunoness.netlify.app/
 
-##Tecnologias:
+## Tecnologias:
 >HTML5
 >CSS
 >javaScript
 
-##Serviços:
+## Serviços:
 >Github
 >Netlify
 
-##Modelo:
+## Modelo:
 https://html5up.net/prologue
